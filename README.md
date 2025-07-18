@@ -11,3 +11,5 @@ Dự án này yêu cầu:
   - xây dựng ... có thể mã hóa các dữ liệu (văn bản, hình ảnh, video...) thành mã huffman và giải mã ngược lại.
   - viết báo cáo kĩ thuật.
   - mô tả dự án
+
+(tao_file.py cũng không cần thiết lắm)
